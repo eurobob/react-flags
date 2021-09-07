@@ -34,7 +34,7 @@
   "author": "Maxime Poulin <mpoulin@roux.ca>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "0.13 - 16.x"
+    "react": "^17.0.1"
   },
   "devDependencies": {
     "babel": "^5.5.6",
